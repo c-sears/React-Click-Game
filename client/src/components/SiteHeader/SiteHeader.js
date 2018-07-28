@@ -7,7 +7,7 @@ const SiteHeader = props => {
             <span id='header_text' className="navbar-brand ml-0">MARVEL CHARACTER CLICKY GAME</span>
 
             <ul className="navbar-nav navbar-expand-lg ml-5">
-                <li className="nav-text score_item">
+                <li className={`nav-text score_item ${props.color_switch}`}>
                     <h4>Score: {props.score}</h4>
                 </li>
                 <li className="nav-text score_item">

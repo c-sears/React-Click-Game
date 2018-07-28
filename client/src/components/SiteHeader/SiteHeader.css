@@ -9,3 +9,10 @@
 .score_item {
     margin-left: 20px;
 }
+
+.to_red {
+    color: red;
+}
+.to_green {
+    color: green;
+}

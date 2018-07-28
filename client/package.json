@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://c-sears.github.io/React-Click-Game/",
   "dependencies": {
+    "animate.css": "^3.7.0",
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
