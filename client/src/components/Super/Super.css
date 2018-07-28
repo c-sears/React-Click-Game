@@ -1,0 +1,11 @@
+#hero_img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    min-width: 150px;
+    margin: 15px;
+    cursor: pointer;
+    position: relative;
+    z-index: 2;
+}

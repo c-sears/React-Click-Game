@@ -1,0 +1,11 @@
+.wrapper {
+    padding-top: 20px;
+    background: #ECEFF1;
+    height: 100%;
+    width: 90vw;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
+  

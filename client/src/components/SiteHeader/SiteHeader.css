@@ -1,0 +1,11 @@
+#site_header {
+    z-index: 3;
+}
+
+#header_text {
+    font-family: 'Heebo', sans-serif;
+}
+
+.score_item {
+    margin-left: 20px;
+}

@@ -1,0 +1,45 @@
+#main_bkg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100vw;
+    background: url('/images/main_bkg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+.heroes-group {
+  width: 75vw;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#hero {
+  cursor: pointer;
+  height: 100px;
+}
+
+#animate {
+  animation: shiver 1s linear 2s infinite alternate;
+}
+
+@keyframes shiver {
+  0% {
+    transform: translate(-10px);
+  }
+  25% {
+    transform: translate(20px);
+  }
+  50% {
+    transform: translate(-20px);
+  }
+  75% {
+    transform: translate(20px);
+  }
+  100% {
+    transform: translate(-20px);
+  }
+}

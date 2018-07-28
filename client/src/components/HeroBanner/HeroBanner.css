@@ -1,0 +1,26 @@
+.hero_banner {
+    height: 35vh;
+    width: 100%;
+    margin-top: 5%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    z-index: 2;
+}
+
+#banner_text {
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+    font-size: 4.5em;
+    color: #fff;
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 35px;
+    text-shadow: 4px 4px 5px #111;
+}
+
+.small_text {
+    font-size: .5em;
+}
