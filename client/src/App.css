@@ -4,7 +4,7 @@
     left: 0;
     height: 100%;
     width: 100vw;
-    background: url('/images/main_bkg.jpg');
+    background: url('./images/main_bkg.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

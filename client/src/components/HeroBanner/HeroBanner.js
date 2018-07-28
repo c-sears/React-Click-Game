@@ -1,7 +1,7 @@
 import React from 'react'
 import style from './HeroBanner.css'
 
-style.backgroundImage = `url(/images/hero_banner.jpg)`
+style.backgroundImage = `url(./images/hero_banner.jpg)`
 const HeroBanner = props => {
     return (
         <div className='hero_banner' style={style} >
