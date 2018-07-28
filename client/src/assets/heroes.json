@@ -1,77 +1,77 @@
 [
     {
         "name": "Dr. Strange",
-        "img": "/images/dr_strange.jpg",
+        "img": "./images/dr_strange.jpg",
         "alt": "Dr. Strange"
     },
     {
         "name": "Captain America",
-        "img": "/images/capt_america.jpg",
+        "img": "./images/capt_america.jpg",
         "alt": "Captain America"
     },
     {
         "name": "Thor",
-        "img": "/images/thor.jpg",
+        "img": "./images/thor.jpg",
         "alt": "Thor"
     },
     {
         "name": "Iron Man",
-        "img": "/images/iron_man.jpg",
+        "img": "./images/iron_man.jpg",
         "alt": "Iron Man"
     },
     {
         "name": "Logan",
-        "img": "/images/logan.jpg",
+        "img": "./images/logan.jpg",
         "alt": "Logan"
     },
     {
         "name": "Spiderman",
-        "img": "/images/spiderman.jpg",
+        "img": "./images/spiderman.jpg",
         "alt": "Spiderman"
     },
     {
         "name": "Deadpool",
-        "img": "/images/deadpool.jpg",
+        "img": "./images/deadpool.jpg",
         "alt": "Deadpool"
     },
     {
         "name": "Black Widow",
-        "img": "/images/black_widow.jpg",
+        "img": "./images/black_widow.jpg",
         "alt": "Black Widow"
     },
     {
         "name": "Thanos",
-        "img": "/images/thanos.jpg",
+        "img": "./images/thanos.jpg",
         "alt": "Thanos"
     },
     {
         "name": "Loki",
-        "img": "/images/loki.jpg",
+        "img": "./images/loki.jpg",
         "alt": "Loki"
     },
     {
         "name": "Black Panther",
-        "img": "/images/black_panther.jpg",
+        "img": "./images/black_panther.jpg",
         "alt": "Black Panther"
     },
     {
         "name": "Star Lord",
-        "img": "/images/star_lord.jpg",
+        "img": "./images/star_lord.jpg",
         "alt": "Star Lord"
     },
     {
         "name": "Lil Groot",
-        "img": "/images/lil_groot.jpg",
+        "img": "./images/lil_groot.jpg",
         "alt": "Lil Groot"
     },
     {
         "name": "Drax",
-        "img": "/images/drax.jpg",
+        "img": "./images/drax.jpg",
         "alt": "Drax"
     },
     {
         "name": "The Hulk",
-        "img": "/images/hulk.jpg",
+        "img": "./images/hulk.jpg",
         "alt": "The Hulk"
     }
 ]
