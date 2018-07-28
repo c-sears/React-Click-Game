@@ -57,7 +57,7 @@ class App extends Component {
         score: 0,
         chosen: [],
         superheroes: this.shuffle(this.state.superheroes),
-        high_score: this.state.score,
+        high_score: this.state.score > this.state.high_score ? this.state.score : this.state.high_score,
         anim_class: 'animated shake'
       })
     }
